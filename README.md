@@ -1,2 +1,14 @@
 # hupu-mega-archive
-HTML page archive and documentation
+
+页面文件管理仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 存档说明
+
+页面文件会持续归档，后续内容以实际发布结果为准。
